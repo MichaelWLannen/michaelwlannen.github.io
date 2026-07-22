@@ -15,12 +15,14 @@ Hey, I'm Michael Lannen. I grew up in a small town in West Virginia. I was a lat
 
 When it was time for college, my dad pushed me toward a traditional path. I gave Civil Engineering a shot, but it wasn't for me. I dropped out and went straight to work, moving through jobs at Walmart, pipeline construction, and eventually a call center.
 
-Working at the call center was the turning point. I realized I could actually make a living working with technology. An older guy in the IT department took me under his wing and showed me what he could when he had time. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. I found West Virginia Junior College (WVJC), enrolled in their 18-month Associate degree program, and worked as hard as I could.
+Working at the call center was the turning point. I realized I could actually make a living working with technology. An older guy in the IT department took me under his wing and showed me what he could when he had time. 
 
-It was a tough stretch. My wife and I had a baby right before I started school, and money was tight. My daily schedule looked like this:
+In 2022, my daughter was born, and becoming a father really put my butt in gear. I knew I needed to build a real career and secure our future. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. In 2024, I enrolled in West Virginia Junior College's 18-month Associate degree program and worked as hard as I could.
+
+It was a tough stretch, and money was tight. My daily schedule looked like this:
 * **6:00 AM:** Get up and prep for a 35-mile commute.
 * **8:00 AM – 5:00 PM:** Drop my wife at work, drop my baby at daycare, and work my full shift at the call center.
-* **5:00 PM – 9:00 PM:** Pick up my baby and DoorDash with the car seat in the back to cover diapers and food.
+* **5:00 PM – 9:00 PM:** Pick up my daughter and DoorDash with her car seat in the back to cover diapers and food.
 * **10:30 PM – 1:00 AM+:** Get everyone settled for the night, then stay up studying and doing coursework.
 
 While I was in school, my mentor at the call center passed away, so I never got to show him what I learned. Shortly after, a new IT hire came on who needed help. I stepped up on top of my regular job—imaging laptops, packing hardware, helping people on the floor with broken mice or monitor issues, and helping train new remote agents. 
