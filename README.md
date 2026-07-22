@@ -17,7 +17,7 @@ When it was time for college, my dad pushed me toward a traditional path. I gave
 
 Working at the call center was the turning point. I realized I could actually make a living working with technology. An older guy in the IT department took me under his wing and showed me what he could when he had time. 
 
-In 2022, my daughter was born, and becoming a father really put my butt in gear. I knew I needed to build a real career and secure our future. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. In 2024, I enrolled in West Virginia Junior College's 18-month Associate degree program and worked as hard as I could.
+In 2022, my daughter was born, and becoming a father really put my butt in gear. I knew I needed to build a real career and secure our future. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. In 2024, I enrolled in West Virginia Junior College's 18 month Associate degree program and worked as hard as I could.
 
 It was a tough stretch, and money was tight. My daily schedule looked like this:
 * **6:00 AM:** Get up and prep for a 35-mile commute.
