@@ -8,7 +8,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github)](https://github.com/MichaelWLannen)
 
 ---
-
+> ## 🚀 OVERVIEW
+> **Cybersecurity Specialist with 2 years of hands-on SecOps experience and 6 years in broader IT roles.** Practical background in incident response, setting up SIEM logging, and automating threat intel workflows. Built a production Splunk setup across 150+ endpoints using recycled hardware, helped contain a live ransomware incident, and built local LLM/MISP integrations to speed up alert triage.
+---
 ## 📖 MY STORY & JOURNEY
 
 Hey, I'm Michael Lannen. I grew up in a small town in West Virginia. I was a late bloomer to cybersecurity, but I’ve always been drawn to computers. As a kid, I was usually taking things apart to see how they worked. My dad brought home an old clear-case Mac from my aunt's job once. I got curious, tore it completely down, and couldn't get it working again. My dad wasn't too happy about that. We didn't have much money growing up, so a replacement wasn't an option. Years later, my mom went to college and bought a computer with her grant money. That’s when I really got hooked—spending hours on AOL and in AIM chat rooms, just enjoying being online.
@@ -33,10 +35,6 @@ After graduating with Honors, I used that momentum to build out real security to
 
 I'm still learning every day and building out new projects. Feel free to shoot me a message or check out my work below!
 
----
-
-> ## 🚀 OVERVIEW
-> **Cybersecurity Specialist with 2 years of hands-on SecOps experience and 6 years in broader IT roles.** Practical background in incident response, setting up SIEM logging, and automating threat intel workflows. Built a production Splunk setup across 150+ endpoints using recycled hardware, helped contain a live ransomware incident, and built local LLM/MISP integrations to speed up alert triage.
 
 ---
 
