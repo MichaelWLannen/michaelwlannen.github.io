@@ -1,16 +1,17 @@
 # ⚡ MICHAEL W. LANNEN
-### **Cybersecurity Specialist | SecOps & Incident Response** 
-📍 *Beckley, WV*  
+### **Cybersecurity Analyst | SecOps & Incident Response** 
+📍 *Meadow Bridge, WV* 
 
 [![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.lannen93@gmail.com) 
-[![Download Master CV](https://img.shields.io/badge/Download-Master%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./michael%20lannen.pdf)
+[![Download Master CV](https://img.shields.io/badge/Download-Master%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Michael%20Lannen%20Cyber%20Security.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-lannen-053588167/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github)](https://github.com/MichaelWLannen)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github)](https://michaelwlannen.github.io)
 
 ---
 > ## 🚀 OVERVIEW
-> **Cybersecurity Specialist with 2 years of hands-on SecOps experience and 6 years in broader IT roles.** Practical background in incident response, setting up SIEM logging, and automating threat intel workflows. Built a production Splunk setup across 150+ endpoints using recycled hardware, helped contain a live ransomware incident, and built local LLM/MISP integrations to speed up alert triage.
+> **Security Professional** with direct hands-on experience in real-world ransomware remediation and a focus on **Digital Forensics and Incident Response (DFIR)**. Combines 2 years of dedicated cybersecurity operations with 6 years of technical IT experience. Proven track record containing live threat actors, architecting Splunk log pipelines, and conducting forensic email/payload analysis across 150+ endpoints.
 ---
+
 ## 📖 MY STORY & JOURNEY
 
 Hey, I'm Michael Lannen. I grew up in a small town in West Virginia. I was a late bloomer to cybersecurity, but I’ve always been drawn to computers. As a kid, I was usually taking things apart to see how they worked. My dad brought home an old clear-case Mac from my aunt's job once. I got curious, tore it completely down, and couldn't get it working again. My dad wasn't too happy about that. We didn't have much money growing up, so a replacement wasn't an option. Years later, my mom went to college and bought a computer with her grant money. That’s when I really got hooked—spending hours on AOL and in AIM chat rooms, just enjoying being online.
@@ -19,11 +20,11 @@ When it was time for college, my dad pushed me toward a traditional path. I gave
 
 Working at the call center was the turning point. I realized I could actually make a living working with technology. An older guy in the IT department took me under his wing and showed me what he could when he had time. 
 
-In 2022, my daughter was born, and becoming a father really put my butt in gear. I knew I needed to build a real career and secure our future. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. In 2024, I enrolled in West Virginia Junior College's 18 month Associate degree program and worked as hard as I could.
+In 2022, my daughter was born, and becoming a father really put my butt in gear. I knew I needed to build a real career and secure our future. I wanted to go back to school, but I didn't have much Pell Grant funding left from my first attempt. I needed a program that would give me an actual degree and industry certs without wasting time or money. In 2024, I enrolled in West Virginia Junior College's 18-month Associate degree program and worked as hard as I could.
 
 It was a tough stretch, and money was tight. My daily schedule looked like this:
 * **6:00 AM:** Get up and prep for a 35-mile commute.
-* **8:00 AM – 5:00 PM:** Drop my wife at work, drop my baby at daycare, and work my full shift at the call center.
+* **8:00 AM – 5:00 PM:** Drop my wife off at work, drop my baby off at daycare, and work my full shift at the call center.
 * **5:00 PM – 9:00 PM:** Pick up my daughter and DoorDash with her car seat in the back to cover diapers and food.
 * **10:30 PM – 1:00 AM+:** Get everyone settled for the night, then stay up studying and doing coursework.
 
@@ -31,10 +32,9 @@ While I was in school, my mentor at the call center passed away, so I never got 
 
 Eventually, I landed a job at **FMRS Health Systems**. They needed someone for general IT support, but it quickly turned into much more than that. I learned on the fly while finishing my degree, all while continuing to DoorDash on the side. 
 
-After graduating with Honors, I used that momentum to build out real security tools at work and in my lab: setting up Splunk and Wazuh SIEMs, running GoPhish campaigns, building local MISP pipelines for IOC enrichment, and triaging alerts in SentinelOne.
+After graduating with Honors, I used that momentum to build out real security tools at work and in my lab:setting up Splunk and Wazuh SIEMs, running GoPhish campaigns, building local MISP pipelines for IOC enrichment, and triaging alerts in SentinelOne.
 
 I'm still learning every day and building out new projects. Feel free to shoot me a message or check out my work below!
-
 
 ---
 
@@ -45,32 +45,27 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 
 ## 🛠️ TECHNICAL SKILLS MATRIX
 
-| 🛡️ Security Operations & DFIR | 🔑 Identity, Cloud & GRC | 🌐 Infrastructure & Tools |
+| 🛡️ Security Operations & DFIR | 🔑 Cloud, Identity & GRC | 🌐 Infrastructure, Networking & Scripting |
 | :--- | :--- | :--- |
-| • Splunk Enterprise SIEM<br>• SentinelOne EDR<br>• Wazuh SIEM/XDR & MS Sentinel<br>• Incident Response (FEMA ICS 100)<br>• Tenable Nessus, Nmap & YARA | • Microsoft Entra ID & Intune<br>• RBAC & Least Privilege<br>• HIPAA & PCI-DSS Compliance<br>• NIST CSF / SP 800-53 Mapping<br>• Email Forensics (SPF/DKIM/DMARC) | • L2/L3 Network Segmentation<br>• Linux Admin (Ubuntu/Debian)<br>• Linux LVM Storage Management<br>• NinjaOne RMM Scripting<br>• Docker & Docker Compose |
-
-### 🤖 AUTOMATION & SCRIPTING
-* 💻 **PowerShell:** Software deployment via NinjaOne RMM (SentinelOne, Wazuh, Splunk), Active Directory scripts, and endpoint management.
-* 🐧 **Bash:** Linux administration, LVM storage pool setup, system provisioning, and basic log management tasks.
-* 🐍 **Python & Local AI:** Automation scripts, MISP + Splunk IOC enrichment pipelines, and local LLM setups (Ollama / Mistral) for offline alert analysis and Webhook notifications.
+| • Microsoft Sentinel & Splunk SIEM<br>• SentinelOne EDR & Wazuh SIEM<br>• Incident Response & Triage<br>• GoPhish Phishing Simulations<br>• VirusTotal, AlienVault OTX & YARA | • Entra ID, Active Directory & Intune<br>• RBAC, MFA & Least Privilege<br>• HIPAA & PCI-DSS Compliance<br>• NIST CSF / SP 800-53 Mapping<br>• Email Forensics (SPF/DKIM/DMARC) | • pfSense, WireGuard, Firewalls & VPNs<br>• L2/L3 VLAN Management<br>• Scripting: PowerShell, Python, Bash<br>• NinjaOne RMM Automation<br>• Linux Systems Admin & Docker |
 
 ---
 
 ## 🗺️ INFRASTRUCTURE TOPOLOGY
 
-![Enterprise Infrastructure Topology Map](https://quickchart.io/graphviz?format=png&graph=digraph+G+{+node+[shape=box,fontname="Helvetica",style="filled,rounded",fillcolor="%231e293b",color="%2338bdf8",fontcolor="%23f8fafc"];+edge+[color="%2394a3b8"];+bgcolor="%230f172a";+subgraph+cluster_0+{+label="Enterprise+Perimeter";+fontcolor="%2338bdf8";+color="%2338bdf8";+VLAN_Seg+[label="Advanced+L2/L3+Segmentation\n(43+Secure+VLAN+Zones)",shape=diamond,color="%2338bdf8"];+}+subgraph+cluster_1+{+label="Clinical+Footprint+(150%2B+Endpoints)";+fontcolor="%2338bdf8";+WinAD+[label="Active+Directory+Domain+Controller"];+MultiEndpoints+[label="Multi-Platform+Clinical+Nodes\n(Workstations+%26+Medical+IoT)"];+VLAN_Seg+->+WinAD;+VLAN_Seg+->+MultiEndpoints;+}+subgraph+cluster_2+{+label="Centralized+Security+Core";+fontcolor="%2338bdf8";+color="%2338bdf8";+Splunk+[label="Ubuntu+Linux+Server\nSplunk+Enterprise+SIEM",fillcolor="%232a3439",color="%2338bdf8"];+LVM+[label="1TB+Linux+LVM\nAggregated+Storage+Pool"];+Splunk+->+LVM+[dir=both,label="Log+Sync/IO"];+}+subgraph+cluster_3+{+label="Isolated+Security+Sandbox";+fontcolor="%2338bdf8";+Hypervisor+[label="VMware+Type-1+/+VirtualBox"];+LabNodes+[label="Malware+Analysis+%26+Lab+Nodes"];+Hypervisor+->+LabNodes;+}+WinAD+->+Splunk+[label="S1+API+/+Event+Logs",fontcolor="%2394a3b8"];+MultiEndpoints+->+Splunk+[label="Sysmon+/+Universal+Forwarder",fontcolor="%2394a3b8"];+})
+![Enterprise Infrastructure Topology Map](https://quickchart.io/graphviz?format=png&graph=digraph+G+{+node+[shape=box,fontname="Helvetica",style="filled,rounded",fillcolor="%231e293b",color="%2338bdf8",fontcolor="%23f8fafc"];+edge+[color="%2394a3b8"];+bgcolor="%230f172a";+subgraph+cluster_0+{+label="Enterprise+Perimeter";+fontcolor="%2338bdf8";+color="%2338bdf8";+VLAN_Seg+[label="pfSense+Firewall+%26+WireGuard\n(Secure+VLAN+Segmentation)",shape=diamond,color="%2338bdf8"];+}+subgraph+cluster_1+{+label="Clinical+Footprint+(150%2B+Endpoints)";+fontcolor="%2338bdf8";+WinAD+[label="Entra+ID+/+Active+Directory"];+MultiEndpoints+[label="Multi-Platform+Endpoints\n(NinjaOne+%26+SentinelOne)"];+VLAN_Seg+->+WinAD;+VLAN_Seg+->+MultiEndpoints;+}+subgraph+cluster_2+{+label="Centralized+Security+Core";+fontcolor="%2338bdf8";+color="%2338bdf8";+Splunk+[label="Ubuntu+Linux+Server\nSplunk+Enterprise+SIEM",fillcolor="%232a3439",color="%2338bdf8"];+LVM+[label="1TB+Linux+LVM\nAggregated+Storage+Pool"];+Splunk+->+LVM+[dir=both,label="Log+Sync/IO"];+}+subgraph+cluster_3+{+label="Threat+Intel+%26+Automation";+fontcolor="%2338bdf8";+MISP+[label="MISP+Pipeline"];+LLM+[label="Local+LLM+/+Discord+Alerts"];+MISP+->+LLM;+}+WinAD+->+Splunk+[label="S1+API+/+Event+Logs",fontcolor="%2394a3b8"];+MultiEndpoints+->+Splunk+[label="Sysmon+/+Universal+Forwarder",fontcolor="%2394a3b8"];+})
 
 ---
 
 ## 🔬 PROJECTS & LAB WORK
 
-* **[Local LLM & MISP Threat Intel Pipeline](https://github.com/michaelnoobz/Splunk-homelab-and-work-set-up):** Set up a local threat intel pipeline using Docker Compose. Combines MISP, Splunk, and a local LLM (Dolphin-Mistral / Mistral-7B) to enrich IOCs and send structured alert summaries to a private Discord Webhook.
-* **[Production Splunk Deployment](https://github.com/michaelnoobz/Splunk-homelab-and-work-set-up):** Built a Splunk Enterprise instance on a Linux server to collect logs from 150+ endpoints. Used Linux LVM to combine spare hard drives into a 1TB storage array for indexing, and deployed forwarders via NinjaOne RMM.
-* **[GoPhish Phishing Setup](https://github.com/michaelnoobz/Gophish-):** Configured GoPhish on a Linux server with custom email templates, a fake login page, and an educational landing page to run internal awareness tests.
-* **[Azure Sentinel Honeypot](https://github.com/michaelnoobz/MyFirstSEIM):** Set up a public-facing Windows VM in Azure to record attack traffic. Used Microsoft Sentinel and KQL to log and map global RDP brute-force attempts in real time.
-* **[DRP Table-Top Exercises](https://github.com/michaelnoobz/DRP-Table-Tops):** Created Disaster Recovery tabletop exercise templates for internal security reviews based on NIST standards.
-* **[Malware & Email Analysis Lab](https://github.com/michaelnoobz/Pico-CTF-Python-Automation):** Analyzed suspicious email headers and attachments, pulled IOCs (IPs, domains, hashes), and wrote YARA rules for detection.
-* **[Nessus Vulnerability Assessment Lab](https://github.com/michaelnoobz/Pico-CTF-Python-Automation):** Ran authenticated and unauthenticated Nessus scans across a small lab network to find missing patches and misconfigurations, then drafted remediation reports.
+* **Local LLM & MISP Threat Intelligence Pipeline:** Built an automated threat intelligence framework integrating MISP, Splunk, and a local LLM to ingest IOCs and post real-time AI-analyzed threat alerts to Discord.
+* **GoPhish Phishing Simulation Setup:** Practical phishing simulation setup using GoPhish to improve security awareness. Includes custom phishing email templates, a mock Microsoft login page, and an educational landing page. Hosted on a Linux server and designed to help organizations identify and train users against phishing attacks.
+* **Azure Free Tier Honeypot + Microsoft Sentinel Logging:** Deployed an exposed cloud honeypot environment to capture live adversary telemetry and built custom KQL queries in Microsoft Sentinel to analyze attack trends and IP origins.
+* **Email Security & Malware Analysis Lab:** Conducted static/dynamic forensic analysis on malicious email payloads and extracted IOCs to author custom YARA detection rules.
+* **Enterprise Vulnerability Management & Nessus Lab:** Deployed and configured Nessus Professional in an isolated lab environment to execute authenticated and unauthenticated vulnerability scans across Windows and Linux hosts; analyzed scan telemetry to identify critical CVEs, misconfigurations, and missing patches, authoring prioritized remediation reports based on CVSS scoring and risk context.
+* **Infrastructure Modernization:** Built and deployed modern web infrastructure and network configurations for local small businesses and non-profit organizations.
+* **Community Outreach:** Organized and participated in technical charitable initiatives, utilizing 3D printing workflows to manufacture custom resources for children in need.
 
 ---
 
@@ -78,29 +73,25 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 
 ### Cybersecurity and IT Specialist
 **FMRS Health Systems** | Beckley, WV | *Nov 2024 – Present*
-* **Ransomware Response:** Responded to an active ransomware incident following a 3-month adversary dwell time. Used FEMA ICS 100 principles to isolate infected endpoints, coordinate restoration, and prevent clinical downtime.
-* **Splunk SIEM Setup:** Built and configured a Splunk Enterprise server on Ubuntu to collect logs across 150+ endpoints. Configured Linux LVM to merge spare drives into a 1TB array dedicated to log storage.
-* **Threat Intel & LLM Pipeline:** Built an automated pipeline linking MISP, Splunk, and a local LLM in Docker Compose to auto-enrich incoming alerts and send summaries via Discord Webhook.
-* **Software Deployment:** Wrote PowerShell scripts to roll out SentinelOne, Wazuh, and Splunk agents across 150+ workstations via NinjaOne RMM.
-* **Network & GRC:** Managed 43 separate VLANs to keep clinical, guest, and server traffic isolated for HIPAA/PCI compliance. Wrote Disaster Recovery Plans, AUPs, and SOPs that helped raise audit scores by 20%.
-* **Phishing Awareness:** Ran internal phishing tests using GoPhish with automatic redirects to training pages, lowering company-wide click rates by 20%.
+* **Incident Response & Triage:** Mitigated a live ransomware outbreak following a 3-month adversary dwell time; applied FEMA ICS 100 principles to isolate compromised hosts, coordinate system restoration, and prevent clinical downtime.
+* **Email Security & Threat Analysis:** Conducted detailed header and payload forensics (SPF/DKIM/DMARC, link sandboxing) on user reports, neutralizing 30+ phishing campaigns and updating email gateway controls to block credential harvesting.
+* **SIEM & Storage Architecture:** Architected a production Splunk SIEM on custom Linux hardware, building a 1TB LVM storage pool from repurposed drives to ingest logs across 150+ endpoints, cutting detection times by 35% and saving $10k+.
+* **Endpoint & Agent Automation:** Engineered custom PowerShell deployment scripts executed via NinjaOne RMM to automate fleet-wide rollouts of security agents across 150+ endpoints, reducing agent deployment times to under 4 hours and lowering MTTR by 40%.
+* **Identity & Access Management (IAM):** Hardened organizational posture by enforcing Least Privilege and Role-Based Access Control (RBAC) for 300+ users in Entra ID, accelerating identity attack detection by 3x and neutralizing unauthorized escalation risks.
+* **Security Awareness & Phishing Mitigation:** Reduced organizational phishing susceptibility by 20% by designing targeted GoPhish simulations and engineering automated remedial training workflows featuring custom HTML redirects.
+* **Governance, Risk, & Compliance (GRC):** Spearheaded accreditation readiness by authoring Disaster Recovery Plans (DRP), Acceptable Use Policies (AUP), and healthcare SOPs, securing a 10% funding increase and raising compliance audit scores by 15%.
+* **Vulnerability Management & Threat Intel:** Led end-to-end vulnerability triage and threat hunting using SentinelOne, Splunk, VirusTotal, and AlienVault OTX, accelerating overall threat triage and remediation speed by 25% for critical security flaws.
 
-### Engineering Analyst (Contract)
+### Engineering Analyst
 **Alpha Engineering Services** | Mabscott, WV | *Oct 2023 – Feb 2024*
-* **Data Analysis:** Processed and sorted technical airflow data to optimize ventilation systems while ensuring compliance with safety standards.
+* **Data Parsing & Compliance:** Parsed, sorted, and analyzed complex technical datasets to optimize airflow metrics, maintaining strict alignment with regulatory compliance and safety standards.
 
-### Production Support Specialist
-**Ibex Global Solutions** | Beckley, WV | *May 2019 – Nov 2024*
-* **Identity & Data Security:** Handled user access requests and enforced HIPAA/PCI-DSS data restrictions across support environments.
-* **Issue Escalation:** Investigated recurring system issues, improving support documentation and reducing escalation tickets by 30%.
+### Production Support
+**Ibex Global** | Beckley, WV | *May 2019 – Oct 2023, Feb 2024 – Nov 2024*
+* **Privacy & IAM:** Enforced PCI-DSS and HIPAA data protection controls across sensitive PII/PHI environments; managed user access controls and identity provisioning across enterprise and hybrid infrastructures.
+* **Root-Cause Analysis:** Conducted root-cause investigations on complex system escalations, streamlining operational workflows and reducing recurring incidents by 30%.
 
 ---
 
 ## 🎓 EDUCATION
 * **A.A.S. in Cybersecurity (Honors)** | *West Virginia Junior College*
-
----
-
-## 🤝 COMMUNITY WORK
-* **Infrastructure Support:** Set up basic network hardware and website configurations for local non-profit and healthcare setups.
-* **Community Drives:** Used 3D printers to manufacture small items and resources for local children's charity initiatives.
