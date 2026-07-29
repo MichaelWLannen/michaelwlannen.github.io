@@ -9,7 +9,7 @@
 
 ---
 > ## 🚀 OVERVIEW
-> **Security Professional** with direct hands-on experience in real-world ransomware remediation and a focus on **Digital Forensics and Incident Response (DFIR)**. Combines 2 years of dedicated cybersecurity operations with 6 years of technical IT experience. Proven track record containing live threat actors, architecting Splunk log pipelines, and conducting forensic email/payload analysis across 150+ endpoints.
+> **Cybersecurity Analyst** with hands-on experience in security operations, incident response, and defensive security engineering within healthcare environments. Experienced in investigating ransomware incidents, phishing campaigns, security alerts, and endpoint threats while deploying SIEM, EDR, and identity security solutions. Combines 2 years of cybersecurity operations experience with 6 years of technical IT experience, utilizing Splunk, Microsoft Sentinel, SentinelOne, KQL, SPL, and PowerShell automation to strengthen detection and response capabilities.
 ---
 
 ## 📖 MY STORY & JOURNEY
@@ -32,22 +32,22 @@ While I was in school, my mentor at the call center passed away, so I never got 
 
 Eventually, I landed a job at **FMRS Health Systems**. They needed someone for general IT support, but it quickly turned into much more than that. I learned on the fly while finishing my degree, all while continuing to DoorDash on the side. 
 
-After graduating with Honors, I used that momentum to build out real security tools at work and in my lab:setting up Splunk and Wazuh SIEMs, running GoPhish campaigns, building local MISP pipelines for IOC enrichment, and triaging alerts in SentinelOne.
+After graduating with Honors, I used that momentum to build out real security tools at work and in my lab: setting up Splunk and Wazuh SIEMs, running GoPhish campaigns, building local MISP pipelines for IOC enrichment, and triaging alerts in SentinelOne.
 
 I'm still learning every day and building out new projects. Feel free to shoot me a message or check out my work below!
 
 ---
 
 ## 🏆 CERTIFICATIONS
-⚡ `CompTIA CSAP` | `CompTIA CySA+` | `CompTIA Security+` | `CompTIA Network+` | `CompTIA ITF+`
+⚡ `CompTIA Security+` | `CompTIA Network+` | `CompTIA CySA+` | `CompTIA CSAP` | `CompTIA ITF+`
 
 ---
 
 ## 🛠️ TECHNICAL SKILLS MATRIX
 
-| 🛡️ Security Operations & DFIR | 🔑 Cloud, Identity & GRC | 🌐 Infrastructure, Networking & Scripting |
+| 🛡️ Security Operations & DFIR | 🔑 Cloud, Identity & GRC | 🌐 Infrastructure, Scripting & Engineering |
 | :--- | :--- | :--- |
-| • Microsoft Sentinel & Splunk SIEM<br>• SentinelOne EDR & Wazuh SIEM<br>• Incident Response & Triage<br>• GoPhish Phishing Simulations<br>• VirusTotal, AlienVault OTX & YARA | • Entra ID, Active Directory & Intune<br>• RBAC, MFA & Least Privilege<br>• HIPAA & PCI-DSS Compliance<br>• NIST CSF / SP 800-53 Mapping<br>• Email Forensics (SPF/DKIM/DMARC) | • pfSense, WireGuard, Firewalls & VPNs<br>• L2/L3 VLAN Management<br>• Scripting: PowerShell, Python, Bash<br>• NinjaOne RMM Automation<br>• Linux Systems Admin & Docker |
+| • Microsoft Sentinel & Splunk SIEM<br>• SentinelOne EDR & Wazuh SIEM<br>• Incident Response & Triage<br>• GoPhish Phishing Simulations<br>• VirusTotal & AlienVault OTX<br>• Forensic Triage & Phishing Analysis | • Entra ID, Active Directory & Intune<br>• RBAC, MFA & Least Privilege<br>• HIPAA & PCI-DSS Compliance<br>• NIST CSF / SP 800-53 Mapping<br>• Email Forensics (SPF/DKIM/DMARC)<br>• DRP / AUP / Healthcare SOPs | • Detection Engineering: SPL, KQL, IOC Enrichment, Alert Tuning<br>• Scripting: PowerShell, Python, Bash<br>• pfSense, WireGuard, Firewalls & VPNs<br>• L2/L3 VLAN Management<br>• NinjaOne RMM Automation<br>• Linux Admin & Docker |
 
 ---
 
@@ -62,7 +62,7 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 * **Local LLM & MISP Threat Intelligence Pipeline:** Built an automated threat intelligence framework integrating MISP, Splunk, and a local LLM to ingest IOCs and post real-time AI-analyzed threat alerts to Discord.
 * **GoPhish Phishing Simulation Setup:** Practical phishing simulation setup using GoPhish to improve security awareness. Includes custom phishing email templates, a mock Microsoft login page, and an educational landing page. Hosted on a Linux server and designed to help organizations identify and train users against phishing attacks.
 * **Azure Free Tier Honeypot + Microsoft Sentinel Logging:** Deployed an exposed cloud honeypot environment to capture live adversary telemetry and built custom KQL queries in Microsoft Sentinel to analyze attack trends and IP origins.
-* **Email Security & Malware Analysis Lab:** Conducted static/dynamic forensic analysis on malicious email payloads and extracted IOCs to author custom YARA detection rules.
+* **Email Security & Malware Analysis Lab:** Conducted static and dynamic analysis of malicious email payloads, extracted indicators of compromise (IOCs), and documented findings to support threat investigation and detection improvements.
 * **Enterprise Vulnerability Management & Nessus Lab:** Deployed and configured Nessus Professional in an isolated lab environment to execute authenticated and unauthenticated vulnerability scans across Windows and Linux hosts; analyzed scan telemetry to identify critical CVEs, misconfigurations, and missing patches, authoring prioritized remediation reports based on CVSS scoring and risk context.
 * **Infrastructure Modernization:** Built and deployed modern web infrastructure and network configurations for local small businesses and non-profit organizations.
 * **Community Outreach:** Organized and participated in technical charitable initiatives, utilizing 3D printing workflows to manufacture custom resources for children in need.
@@ -71,16 +71,16 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 
 ## 💼 WORK EXPERIENCE
 
-### Cybersecurity and IT Specialist
+### Cybersecurity Analyst / IT Specialist
 **FMRS Health Systems** | Beckley, WV | *Nov 2024 – Present*
-* **Incident Response & Triage:** Mitigated a live ransomware outbreak following a 3-month adversary dwell time; applied FEMA ICS 100 principles to isolate compromised hosts, coordinate system restoration, and prevent clinical downtime.
-* **Email Security & Threat Analysis:** Conducted detailed header and payload forensics (SPF/DKIM/DMARC, link sandboxing) on user reports, neutralizing 30+ phishing campaigns and updating email gateway controls to block credential harvesting.
-* **SIEM & Storage Architecture:** Architected a production Splunk SIEM on custom Linux hardware, building a 1TB LVM storage pool from repurposed drives to ingest logs across 150+ endpoints, cutting detection times by 35% and saving $10k+.
-* **Endpoint & Agent Automation:** Engineered custom PowerShell deployment scripts executed via NinjaOne RMM to automate fleet-wide rollouts of security agents across 150+ endpoints, reducing agent deployment times to under 4 hours and lowering MTTR by 40%.
-* **Identity & Access Management (IAM):** Hardened organizational posture by enforcing Least Privilege and Role-Based Access Control (RBAC) for 300+ users in Entra ID, accelerating identity attack detection by 3x and neutralizing unauthorized escalation risks.
-* **Security Awareness & Phishing Mitigation:** Reduced organizational phishing susceptibility by 20% by designing targeted GoPhish simulations and engineering automated remedial training workflows featuring custom HTML redirects.
-* **Governance, Risk, & Compliance (GRC):** Spearheaded accreditation readiness by authoring Disaster Recovery Plans (DRP), Acceptable Use Policies (AUP), and healthcare SOPs, securing a 10% funding increase and raising compliance audit scores by 15%.
-* **Vulnerability Management & Threat Intel:** Led end-to-end vulnerability triage and threat hunting using SentinelOne, Splunk, VirusTotal, and AlienVault OTX, accelerating overall threat triage and remediation speed by 25% for critical security flaws.
+* **Incident Response & Triage:** Responded to a Qilin ransomware incident involving compromise of an internet-facing firewall service; performed security triage, supported endpoint isolation, analyzed indicators of compromise, and assisted recovery and remediation efforts.
+* **Email Security & Threat Analysis:** Investigated and remediated 30+ phishing campaigns, analyzing headers, URLs, and payloads while extracting IOCs and improving email security controls.
+* **SIEM & Storage Architecture:** Deployed and configured a production Splunk SIEM environment on Linux infrastructure, designing log ingestion pipelines across 150+ endpoints and developing centralized visibility for security monitoring and threat investigation.
+* **Endpoint & Agent Automation:** Engineered custom PowerShell deployment scripts executed via NinjaOne RMM to automate fleet-wide security agent rollouts across 150+ endpoints.
+* **Identity & Access Management (IAM):** Hardened identity security posture by implementing least privilege principles and RBAC controls for 300+ users in Entra ID.
+* **Security Awareness & Phishing Mitigation:** Developed GoPhish simulations and automated remediation workflows using custom HTML training pages to improve employee phishing awareness.
+* **Governance, Risk, & Compliance (GRC):** Supported accreditation readiness by authoring Disaster Recovery Plans (DRP), Acceptable Use Policies (AUP), and healthcare security SOPs.
+* **Vulnerability Management & Threat Intel:** Conducted vulnerability triage and threat hunting using SentinelOne, Splunk, VirusTotal, and AlienVault OTX to investigate security findings and support remediation efforts.
 
 ### Engineering Analyst
 **Alpha Engineering Services** | Mabscott, WV | *Oct 2023 – Feb 2024*
@@ -89,7 +89,7 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 ### Production Support
 **Ibex Global** | Beckley, WV | *May 2019 – Oct 2023, Feb 2024 – Nov 2024*
 * **Privacy & IAM:** Enforced PCI-DSS and HIPAA data protection controls across sensitive PII/PHI environments; managed user access controls and identity provisioning across enterprise and hybrid infrastructures.
-* **Root-Cause Analysis:** Conducted root-cause investigations on complex system escalations, streamlining operational workflows and reducing recurring incidents by 30%.
+* **Root-Cause Analysis:** Conducted root-cause investigations on complex system escalations, streamlining operational workflows and reducing recurring incidents.
 
 ---
 
