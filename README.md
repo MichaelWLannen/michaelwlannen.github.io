@@ -73,7 +73,7 @@ I'm still learning every day and building out new projects. Feel free to shoot m
 
 ### Cybersecurity Analyst / IT Specialist
 **FMRS Health Systems** | Beckley, WV | *Nov 2024 – Present*
-* **Incident Response & Triage:** Responded to a Qilin ransomware incident involving compromise of an internet-facing firewall service; performed security triage, supported endpoint isolation, analyzed indicators of compromise, and assisted recovery and remediation efforts.
+* **Incident Response & Triage:** Responded to a ransomware incident involving compromise of an internet-facing firewall service; performed security triage, supported endpoint isolation, analyzed indicators of compromise, and assisted recovery and remediation efforts.
 * **Email Security & Threat Analysis:** Investigated and remediated 30+ phishing campaigns, analyzing headers, URLs, and payloads while extracting IOCs and improving email security controls.
 * **SIEM & Storage Architecture:** Deployed and configured a production Splunk SIEM environment on Linux infrastructure, designing log ingestion pipelines across 150+ endpoints and developing centralized visibility for security monitoring and threat investigation.
 * **Endpoint & Agent Automation:** Engineered custom PowerShell deployment scripts executed via NinjaOne RMM to automate fleet-wide security agent rollouts across 150+ endpoints.
